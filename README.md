@@ -1,4 +1,4 @@
-# promote
+# Promote
 
 A new Flutter project.
 
